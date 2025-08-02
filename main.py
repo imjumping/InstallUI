@@ -1,1 +1,4 @@
-#这个是主脚本：稍后我会推送到GitHub。
+#导入！
+import tkinter as tk
+import time as tm
+
