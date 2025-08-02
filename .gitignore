@@ -1,6 +1,9 @@
 # IDE
 .idea/
 
+# VS Code (if used)
+.vscode/
+
 # Python
 __pycache__/
 *.pyc
@@ -13,3 +16,14 @@ venv/
 
 # Logs
 *.log
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Build
+dist/
+build/
+*.egg-info/
